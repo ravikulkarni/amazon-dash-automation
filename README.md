@@ -6,6 +6,11 @@ I chose to automate task of printing school bus pass with a button press. I have
 
 ## Pre requisites
 
+### Setting up Amazon Dash button
+I have used the Amazon Dash button [here](http://www.amazon.com/Amazon-JK76PL-Huggies-Dash-Button/dp/B00WJ10L8E/ref=sr_1_1?ie=UTF8&qid=1451580567&sr=8-1&keywords=huggies+dash+button)
+
+Please follow the instructions to setup Amazon **except the last step where you specify which product to purchase.**
+
 ### Node and Node Modules
 Install node.js on the Raspberry PI using the instructions [here](http://joshondesign.com/2013/10/23/noderpi)
 
