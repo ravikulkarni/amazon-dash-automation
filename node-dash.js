@@ -1,5 +1,5 @@
 dash_button = require('node-dash-button');
-var dash = dash_button("f0:27:2d:24:2d:92"); //address from step above
+var dash = dash_button("f0:27:2d:24:2d:92"); //address of Amazon Dash button.
 var exec = require('child_process').exec;
 var printout_sent = false;
 
